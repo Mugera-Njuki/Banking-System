@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1705662949 source:g:\coding in c\bank system\main.c
+	<stdio.h>
+	<stdlib.h>
+
